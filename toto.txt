@@ -1,0 +1,1 @@
+azure_function_key="1F2ZZZ_PZikdnAr6r7g0UqIawt1vDl5FK1U"
